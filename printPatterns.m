@@ -1,4 +1,5 @@
 %% This scripts prints different * patterns
+%% for detailed preview and outputs please refer https://github.com/loser23/Matlab-Code/blob/master/printPatterns.pdf
 %% assinging size
 n = 7;
 
